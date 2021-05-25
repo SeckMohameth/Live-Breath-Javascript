@@ -12,7 +12,6 @@ function numberWhat(n){
         default:
             console.log("Bro, what is even that");
     }
-
-}
+};
 
 numberWhat(0);
