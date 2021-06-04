@@ -26,4 +26,4 @@ After getting familiar with JS more go here to practice
 
 # React Refresher
 
-Revisting React
+Revisting React -> focused on Next.js
