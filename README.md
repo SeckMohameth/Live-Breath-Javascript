@@ -23,3 +23,7 @@ After getting familiar with JS more go here to practice
 - Pramp -> with real people
 - Go to Holberton to whiteboard
 - Algo and DS (Binary search, LinkedList, Binary Tress, and so on)
+
+# React Refresher
+
+Revisting React
