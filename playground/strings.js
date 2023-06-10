@@ -47,3 +47,12 @@ console.log(newStr)
 // while(index < 10) {
 //   console.log(text)
 // }
+
+
+
+
+let name = "Mohameth"
+
+// at() method
+// getting the last character
+console.log(name.at(-1))
