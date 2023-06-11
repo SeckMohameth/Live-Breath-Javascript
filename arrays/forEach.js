@@ -13,3 +13,4 @@ const num = [2, 4, 6]
 num.forEach(function(item) {
   console.log(item * 2)
 })
+
