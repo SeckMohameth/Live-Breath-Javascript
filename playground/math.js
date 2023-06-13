@@ -15,3 +15,7 @@ console.log(Math.random() * 100)
 let randomNum = Math.random() * 100
 console.log(Math.floor(randomNum))
 
+
+// round number up
+let num2 = 4.357
+console.log(Math.ceil(num2))
