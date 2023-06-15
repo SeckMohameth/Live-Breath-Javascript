@@ -7,3 +7,7 @@ const remove = arr.pop()
 console.log(remove)
 
 console.log(arr) // output: [ 'apple', 'orange' ]
+
+
+arr.pop()
+console.log(remove)

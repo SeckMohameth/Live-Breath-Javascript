@@ -12,3 +12,10 @@ const words = ['I', "am", 'hungry']
 const sentence = words.join(", ")
 
 console.log(sentence)
+
+
+
+const music = ["I", "got", "the", "job", "at", "Spotify"]
+
+const job = music.join(" ")
+console.log(job)
