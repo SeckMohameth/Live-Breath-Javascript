@@ -4,3 +4,6 @@ let arr = ["apple", 'banna', 'berry']
 
 console.log(arr.shift())
 console.log(arr)
+
+let name = ["Mo", "Dom", "Tom"]
+console.log(name.shift())

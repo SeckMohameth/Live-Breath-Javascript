@@ -5,3 +5,9 @@ let fruits = ["apple", "cherry", "mango"]
 fruits.unshift("orange", "pineapple")
 
 console.log(fruits)
+
+
+
+
+let name = ["Mo", "Dom", "Tom"]
+console.log(name.unshift('Mo'))
