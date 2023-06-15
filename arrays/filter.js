@@ -4,3 +4,11 @@ let arr = [1, 2, 9, 4, 3]
 console.log(arr.filter((num) => {
   return num > 1
 }))
+
+
+let name = ["chris", "dom", "Mo", "Diego"]
+
+console.log(name.filter((index) => {
+   return index === "Mo"
+}))
+
