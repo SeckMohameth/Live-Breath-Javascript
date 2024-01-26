@@ -11,4 +11,3 @@ let name = ["chris", "dom", "Mo", "Diego"]
 console.log(name.filter((index) => {
    return index === "Mo"
 }))
-
