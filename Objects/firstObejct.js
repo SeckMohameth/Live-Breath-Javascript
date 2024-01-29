@@ -13,4 +13,14 @@ const Mo = {
 
 //const Kay = new Person()
 
-console.log(Mo)
+// console.log(Mo)
+
+// iterate through an object
+// not working
+for(let i = 0; i < Object.keys(Mo).legnth; i++) {
+  console.log(Mo[Object.keys(Mo)[i]])
+
+  if(Object.keys(Mo)[i] === "age") {
+    conosle.log("Age is: " + Mo[Object.keys(Mo)[i]])
+  }
+}
