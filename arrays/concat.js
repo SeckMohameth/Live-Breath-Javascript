@@ -9,4 +9,7 @@ let newArr = arr.concat(arr2)
 console.log(newArr)
 
 
-ON PAGE TEN
+let num1 = [1, 2]
+let num2 = [3, 4]
+
+console.log(num1.concat(num2))
