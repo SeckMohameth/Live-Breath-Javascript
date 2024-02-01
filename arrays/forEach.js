@@ -14,3 +14,16 @@ num.forEach(function(item) {
   console.log(item * 2)
 })
 
+
+
+let person = {
+  name: "Mohameth",
+  age: 26,
+  School: "Holberton",
+  Job: "Educator"
+}
+
+
+for(let key in person) {
+  console.log(`${key}`)
+}
