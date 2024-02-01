@@ -1,3 +1,33 @@
+let words = "This is the beginning of something new and amazing"
+
+let name = "Mohameth"
+
+let Person = {
+  name: "Mo",
+  age: 26,
+  job: "Software Engineer",
+  HomeTown: "West Haven"
+}
+
+let fruits = ["apple", "orange", "banana", "pear", "watermelon", "pineapple", "Black Berry"]
+
+let songs = {
+  artist: "",
+  title: "",
+  album: "",
+  year: 0
+}
+
+
+
+
+
+
+
+
+
+
+
 //fundamentals sir
 
 // var
