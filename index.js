@@ -11,6 +11,9 @@ let Person = {
   HomeTown: "West Haven"
 }
 
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
 let songs = {
   artist: "",
   title: "",
@@ -64,22 +67,35 @@ console.log(words.trim())
 
 //length
 console.log(name.length)
-//======================= Arrays =========================
+//======================= Arrays =================================================
 
 let fruits = ["apple", "orange", "banana", "pear", "watermelon", "pineapple", "Black Berry"]
 
-let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 let randomNum = [23, 4, 5, 6, 2, 2, 34, 16, 80]
 
 let months = ["January, March", "April", "October", "September", "December", "July", "May", "June"]
 
-let firends = ["Dom", "chris"]
+let friends = ["Dom", "chris"]
+
+// console.log(friends.push("Kay"))
+// let addFriend = friends.push("kay")
+// console.log(friends)
+
+// remove friend
+let removeFriend = friends.pop()
+console.log(friends)
+
+// add to beginning of array
+// let removeBeginnning = fruits.unshift("MoFruits")
+// console.log(fruits)
+
+console.log(fruits.shift())
 
 
 
 
-//========================================================
+//======================================================================================
 
 
 //fundamentals sir
