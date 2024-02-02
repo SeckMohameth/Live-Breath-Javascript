@@ -92,8 +92,22 @@ console.log(friends)
 
 console.log(fruits.shift())
 
+// turns it into a string and then sorts from first character
+console.log(randomNum.sort())
+
+// sorts numbers in order
+console.log(randomNum.sort((a, b) => a - b))
 
 
+let even = numbers.filter((a) => {
+  return a % 2 === 0
+})
+
+console.log("Even numbers are " + even)
+
+
+let newString = friends.toString()
+console.log(newString)
 
 //======================================================================================
 
